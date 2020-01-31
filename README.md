@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <p align="center"><a href="https://hrnugr.github.io/todo-app/" target="_blank">Demo Todo App</a></p>
+  <br>
+    <img src="https://github.com/hrnugr/todo-app/blob/master/todo.PNG" alt="todo project" >
+  <br>
+</h1>
 
 ## Available Scripts
 
@@ -66,4 +71,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# todo-app
